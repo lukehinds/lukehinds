@@ -15,10 +15,3 @@ You can find me on twitter [@decodebytes](https://twitter.com/decodebytes), or [
 I am always happy to 💬 about software security and growing open source communities. 
 
 [![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukehinds)](https://github.com/lukehinds/github-readme-stats)
-
-<a href="https://github.com/sigstore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukehinds&repo=sigstore" />
-</a>
-<a href="https://github.com/keylime/keylime">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukehinds&repo=keylime" />
-</a>

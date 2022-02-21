@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi There 👋
 
 [![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukehinds)](https://github.com/lukehinds/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukehinds)](https://github.com/lukehinds/github-readme-stats)
 
 <!--
 **lukehinds/lukehinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

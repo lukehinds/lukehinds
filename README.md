@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukehinds&repo=rekor" />
 </a>
 <a href="https://github.com/keylime/keylime">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=keylime" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukehinds&repo=keylime" />
 </a>
 <!--
 **lukehinds/lukehinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

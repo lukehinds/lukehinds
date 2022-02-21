@@ -12,6 +12,4 @@ I also do a fair number of gigs around open source security in general.
 
 You can find me on twitter [@decodebytes](https://twitter.com/decodebytes), or [linkedin](https://www.linkedin.com/in/lukehinds/)
 
-I am always happy to 💬 about software security and growing open source communities. 
-
-[![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukehinds)](https://github.com/lukehinds/github-readme-stats)
+I am always happy to 💬 about software security and growing open source communities.

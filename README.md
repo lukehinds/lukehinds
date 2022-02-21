@@ -1,17 +1,5 @@
 ### Hi There 👋
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://i.imgur.com/swOj2TY.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/decodebytes
-[2]: https://www.linkedin.com/in/lukehinds
-
 [![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukehinds)](https://github.com/lukehinds/github-readme-stats)
 
 <a href="https://github.com/sigstore/rekor">

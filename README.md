@@ -1,8 +1,13 @@
 ### Hi There 👋
 
 [![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukehinds)](https://github.com/lukehinds/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukehinds)](https://github.com/lukehinds/github-readme-stats)
 
+<a href="https://github.com/sigstore/rekor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukehinds&repo=rekor" />
+</a>
+<a href="https://github.com/keylime/keylime">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=keylime" />
+</a>
 <!--
 **lukehinds/lukehinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

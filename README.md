@@ -24,7 +24,7 @@ I am always happy to 💬 about software security and growing open source commun
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lukehinds&hide_border=true)
 
-<a href="https://profile.codersrank.io/user/lukehinds"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lukehinds"/></a>
+<!-- <a href="https://profile.codersrank.io/user/lukehinds"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lukehinds"/></a> -->
 
 <!--
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukehinds&layout=compact&count_private=true&langs_count=9&hide=jupyter%20notebook)

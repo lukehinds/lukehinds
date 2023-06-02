@@ -1,6 +1,6 @@
 ### Luke Hinds
 
-I am software engineer working mostly on open source security projects. I have lots of experience bootstrapping projects from new and helping grow diverse, inclusive and friendly 👯 communitees.
+I am the CTO of [stacklok](https://stacklok.com) and software engineer working mostly on open source security projects. I have lots of experience bootstrapping projects from new and helping grow diverse, inclusive and friendly 👯 communitees.
 
 I founded [project sigstore](https://sigstore.dev) and developed the [keylime project](https://keylime.dev) alongside MIT lincoln labs.
 

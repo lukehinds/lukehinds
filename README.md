@@ -2,12 +2,9 @@
 
 I am the CTO of [stacklok](https://stacklok.com) and software engineer working mostly on open source security projects. I have lots of experience bootstrapping projects from new and helping grow diverse, inclusive and friendly 👯 communitees.
 
-I founded [project sigstore](https://sigstore.dev) and developed the [keylime project](https://keylime.dev) alongside MIT lincoln labs.
+My current focus is on securing Generative AI coding and so I am excited to be hacking on [CodeGate AI](https://github.com/stacklok/codegate). CodeGate is a local gateway that makes AI agents and coding assistants safer. It ensures AI-generated recommendations adhere to best practices while safeguarding your code's integrity and protecting your privacy. With CodeGate, you can confidently leverage AI in your development workflow without sacrificing security or productivity.
 
-I also do a fair number of gigs around open source security in general.
-
-* I am member of the [kubernetes security response team](https://github.com/kubernetes/committee-security-response/blob/main/README.md#security-response-committee-src), where I manage vulnerabilities and the [hackerone bug bounty program](https://hackerone.com/kubernetes).
-* I am an elected member of the [Open Source Security Foundation](https://openssf.org) Governing Board, as the security representative independent contributor.
+I also founded [project sigstore](https://sigstore.dev) and developed the [keylime project](https://keylime.dev) alongside MIT lincoln labs. 
 
 You can find me on twitter [@decodebytes](https://twitter.com/decodebytes), or [linkedin](https://www.linkedin.com/in/lukehinds/)
 

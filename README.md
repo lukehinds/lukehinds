@@ -1,12 +1,10 @@
 ### Luke Hinds
 
-I am the CTO of [stacklok](https://stacklok.com) and software engineer working mostly on open source security projects. I have lots of experience bootstrapping projects from new and helping grow diverse, inclusive and friendly 👯 communitees.
+I am a software engineer working mostly on open source security projects. I have lots of experience bootstrapping projects from new and helping grow diverse, inclusive and friendly 👯 communitees.
 
-My current focus is on securing Generative AI coding and so I am excited to be hacking on [CodeGate AI](https://github.com/stacklok/codegate). CodeGate is a local gateway that makes AI agents and coding assistants safer. It ensures AI-generated recommendations adhere to best practices while safeguarding your code's integrity and protecting your privacy. With CodeGate, you can confidently leverage AI in your development workflow without sacrificing security or productivity.
+I founded [project sigstore](https://sigstore.dev) and developed the [keylime project](https://keylime.dev) alongside MIT lincoln labs. Recent focus has been on securing Generative AI coding care of [CodeGate AI](https://github.com/stacklok/codegate).
 
-I also founded [project sigstore](https://sigstore.dev) and developed the [keylime project](https://keylime.dev) alongside MIT lincoln labs. 
-
-You can find me on twitter [@decodebytes](https://twitter.com/decodebytes), or [linkedin](https://www.linkedin.com/in/lukehinds/)
+You can find me on [bluesky](https://bsky.app/profile/lukehinds.bsky.social), or [linkedin](https://www.linkedin.com/in/lukehinds/)
 
 I am always happy to 💬 about software security and growing open source communities.
 

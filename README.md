@@ -10,6 +10,8 @@ I am always happy to 💬 about software security and growing open source commun
 
 ### Analytics ⚙️
 
+<a href="https://trendshift.io/developers/8128" target="_blank"><img src="https://trendshift.io/api/badge/developers/8128" alt="lukehinds | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 <a href="https://profile.codersrank.io/user/lukehinds"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lukehinds&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="500px"/></a>
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=lukehinds&count_private=true&show_icons=true)

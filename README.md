@@ -1,8 +1,8 @@
 ### Luke Hinds
 
-I am a software engineer working mostly on open source security projects. I have lots of experience bootstrapping projects from new and helping grow diverse, inclusive and friendly 👯 communitees.
+I am a software engineer working mostly on open source security projects. I have lots of experience bootstrapping projects from new and helping grow diverse, inclusive and friendly 👯 communitees. I am also the CEO of [Red Dot Rocket](https://www.rdrocket.com/), a security engineering company. 
 
-I founded [project sigstore](https://sigstore.dev) and developed the [keylime project](https://keylime.dev) alongside MIT lincoln labs. Recent focus has been on securing Generative AI coding care of [CodeGate AI](https://github.com/stacklok/codegate).
+I founded [project sigstore](https://sigstore.dev) and built [keylime project](https://keylime.dev) alongside MIT lincoln labs.
 
 You can find me on [bluesky](https://bsky.app/profile/lukehinds.bsky.social), or [linkedin](https://www.linkedin.com/in/lukehinds/)
 

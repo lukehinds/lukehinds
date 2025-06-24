@@ -4,7 +4,7 @@ I am a software engineer working mostly on open source security projects. I have
 
 I founded [project sigstore](https://sigstore.dev) and built [keylime project](https://keylime.dev) alongside MIT lincoln labs.
 
-You can find me on [bluesky](https://bsky.app/profile/lukehinds.bsky.social), or [linkedin](https://www.linkedin.com/in/lukehinds/)
+You can find me on [bluesky](https://bsky.app/profile/lukehinds.bsky.social), or [linkedin](https://www.linkedin.com/in/lukehinds/) and I am always hanging out in the [Red Dot Rocket Discord](https://discord.gg/pPcjYzGvbS) if you want to chat about anything. 
 
 I am always happy to 💬 about software security and growing open source communities.
 

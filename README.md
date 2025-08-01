@@ -8,7 +8,7 @@ You can find me on [bluesky](https://bsky.app/profile/lukehinds.bsky.social), or
 
 I am currently building [AgentUp](https://github.com/RedDotRocket.com/AgentUp) the AI Agent Framework. 
 
-I am always happy to 💬 about software security and growing open source communities.
+I am always happy to 💬 about software security, AI / Agents and growing open source communities.
 
 ### Analytics ⚙️
 

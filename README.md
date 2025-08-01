@@ -6,6 +6,8 @@ I founded [project sigstore](https://sigstore.dev) and built [keylime project](h
 
 You can find me on [bluesky](https://bsky.app/profile/lukehinds.bsky.social), or [linkedin](https://www.linkedin.com/in/lukehinds/) and I am always hanging out in the [Red Dot Rocket Discord](https://discord.gg/pPcjYzGvbS) if you want to chat about anything. 
 
+I am currently building [AgentUp](https://github.com/RedDotRocket.com/AgentUp) the AI Agent Framework. 
+
 I am always happy to 💬 about software security and growing open source communities.
 
 ### Analytics ⚙️

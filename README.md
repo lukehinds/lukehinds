@@ -2,7 +2,7 @@
 
 I am a software engineer working mostly on open source security projects. I have lots of experience bootstrapping projects from new and helping grow diverse, inclusive and friendly communitees and I have held multiple leadership roles in open source, serving on the board and techincal steering commitee for communities OpenSSF, Kubernetes, Confidential Computing Consortium.
 
-I am mostly know for being the creator of [sigstore](https://sigstore.dev), but I have created many OSS projects over the years. I am maintainer on [Bandit]([Bandit](https://github.com/PyCQA/bandit)), and numberous other projects. 
+I am mostly know for being the creator of [sigstore](https://sigstore.dev), but I have created many OSS projects over the years. I am maintainer on [Bandit] python security linter (https://github.com/PyCQA/bandit)), and numberous other projects. 
 
 You can find me on [bluesky](https://bsky.app/profile/lukehinds.bsky.social), or [linkedin](https://www.linkedin.com/in/lukehinds/) and I am always hanging out in the [Always Further Discord](https://discord.gg/pPcjYzGvbS) if you want to chat about anything. 
 

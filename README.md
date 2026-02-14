@@ -7,7 +7,7 @@ I am mostly know for being the creator of [sigstore](https://sigstore.dev), but 
 You can find me on [bluesky](https://bsky.app/profile/lukehinds.bsky.social), or [linkedin](https://www.linkedin.com/in/lukehinds/) and I am always hanging out in the [Always Further Discord](https://discord.gg/pPcjYzGvbS) if you want to chat about anything. 
 
 I am currently building
-- [Nono][DeepFabric](https://github.com/always-further/nono)
+- [Nono](https://github.com/always-further/nono)
 - [DeepFabric](https://github.com/always-further/deepfabric)
 
 My job is the CEO of [Always Further](https://alwaysfurther.ai), Inc where we are on a mission to make AI Agents safe for the future. 

@@ -4,13 +4,13 @@ I am a software engineer working mostly on open source security projects. I have
 
 I am mostly know for being the creator of [sigstore](https://sigstore.dev), but I have created many OSS projects over the years. I am maintainer on python security linter  [Bandit](https://github.com/PyCQA/bandit), and numberous other projects. 
 
-You can find me on [bluesky](https://bsky.app/profile/lukehinds.bsky.social), or [linkedin](https://www.linkedin.com/in/lukehinds/) and I am always hanging out in the [Always Further Discord](https://discord.gg/pPcjYzGvbS) if you want to chat about anything. 
+You can find me on [bluesky](https://bsky.app/profile/lukehinds.bsky.social), or [linkedin](https://www.linkedin.com/in/lukehinds/) and I am always hanging out in the [nolabs Discord](https://discord.gg/pPcjYzGvbS) if you want to chat about anything. 
 
 I am currently building
 - [Nono](https://github.com/always-further/nono)
 - [DeepFabric](https://github.com/always-further/deepfabric)
 
-My job is the CEO of [Always Further](https://alwaysfurther.ai), Inc where we are on a mission to make AI Agents safe for the future. 
+My job is the CEO of [nolabs, inc](https://nolabs.ai), Inc where we are on a mission to make AI Agents safe for the future. 
 
 I am always happy to 💬 about AI/ML , software security, AI / Agents and growing open source communities.
 
